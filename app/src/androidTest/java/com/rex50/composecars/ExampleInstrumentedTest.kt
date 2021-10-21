@@ -1,4 +1,4 @@
-package com.rex50.composerandomcar
+package com.rex50.composecars
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

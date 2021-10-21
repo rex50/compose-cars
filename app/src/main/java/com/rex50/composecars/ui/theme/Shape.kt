@@ -1,4 +1,4 @@
-package com.rex50.composerandomcar.ui.theme
+package com.rex50.composecars.ui.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes
